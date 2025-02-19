@@ -1,4 +1,4 @@
-![Banner]([https://drive.google.com/file/d/1xalihoaWM7QgVRiNl7bhDfdemL95udXc/view?usp=sharing](https://drive.google.com/file/d/1xalihoaWM7QgVRiNl7bhDfdemL95udXc/view?usp=sharing))
+![Banner](https://drive.google.com/file/d/1xalihoaWM7QgVRiNl7bhDfdemL95udXc/view?usp=sharing](https://drive.google.com/file/d/1xalihoaWM7QgVRiNl7bhDfdemL95udXc/view?usp=sharing)
 
 <!--
 **kesavan2252/kesavan2252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
