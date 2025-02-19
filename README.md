@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/WIbnOwl)
+![Banner](https://i.imgur.com/WIbnOwl.png)
 
 
 <!--
