@@ -1,4 +1,5 @@
-![Banner](https://imgur.com/a/MIZEQFc)
+![Banner]([https://i.imgur.com/yourimage.png](https://imgur.com/a/MIZEQFc))
+
 
 <!--
 **kesavan2252/kesavan2252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
